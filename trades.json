@@ -16,5 +16,11 @@
         "symbol": "BTC/USD",
         "type": "sell",
         "price": 30063.59
+    },
+    {
+        "timestamp": "2025-04-03 20:23:34",
+        "symbol": "BTC/USD",
+        "type": "buy",
+        "price": 29488.97
     }
 ]
