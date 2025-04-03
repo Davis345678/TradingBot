@@ -1,0 +1,12 @@
+2025-04-03 20:20:23,958 - INFO - Starting trading bot in paper trading mode...
+2025-04-03 20:20:23,958 - WARNING - trades.json is corrupted, starting with an empty list
+2025-04-03 20:20:23,959 - INFO - New trade: {'timestamp': '2025-04-03 20:20:23', 'symbol': 'BTC/USD', 'type': 'sell', 'price': 30450.49}
+2025-04-03 20:20:28,440 - INFO - Successfully updated trades.json on GitHub
+2025-04-03 20:21:28,442 - INFO - New trade: {'timestamp': '2025-04-03 20:21:28', 'symbol': 'BTC/USD', 'type': 'sell', 'price': 29257.83}
+2025-04-03 20:21:31,521 - INFO - Successfully updated trades.json on GitHub
+2025-04-03 20:22:31,523 - INFO - New trade: {'timestamp': '2025-04-03 20:22:31', 'symbol': 'BTC/USD', 'type': 'sell', 'price': 30063.59}
+2025-04-03 20:22:34,339 - INFO - Successfully updated trades.json on GitHub
+2025-04-03 20:23:34,346 - INFO - New trade: {'timestamp': '2025-04-03 20:23:34', 'symbol': 'BTC/USD', 'type': 'buy', 'price': 29488.97}
+2025-04-03 20:23:37,461 - INFO - Successfully updated trades.json on GitHub
+2025-04-03 20:24:37,466 - INFO - New trade: {'timestamp': '2025-04-03 20:24:37', 'symbol': 'BTC/USD', 'type': 'sell', 'price': 30039.45}
+2025-04-03 20:24:39,955 - INFO - Successfully updated trades.json on GitHub
